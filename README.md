@@ -33,7 +33,6 @@ To run this project, you will need to add the following environment variables to
 `PyTorch version: 2.0.1+cu118`
 
 
-```
 
 
 
