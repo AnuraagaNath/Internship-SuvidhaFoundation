@@ -33,29 +33,6 @@ To run this project, you will need to add the following environment variables to
 `PyTorch version: 2.0.1+cu118`
 
 
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/AnuraagaNath/Text-Summarization-using-SimCLS.git
-```
-
-Go to the project directory
-
-```bash
-  cd Text-Summarization-using-SimCLS
-```
-
-Install dependencies
-
-```bash
-  pip install torch
-  pip install accelerate
-  pip install transformers
-  pip install datasets
 ```
 
 
