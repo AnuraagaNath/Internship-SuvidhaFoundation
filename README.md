@@ -6,7 +6,7 @@ This project are done under ML Internship under Suvidha Foundation (www.suvidhaf
 The project mainly focused on the Research paper "SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization" by Yixin Liu and Pengfei Liu from Carnegie Mellon University.
 
 This paper suggests that using two stage model for abstractive summarization.
-Here what I did while following the paper using Pytorch in Google Colab platform.
+Here what I did while following the paper using Pytorch in Google Colab platform. I will work on this later on time. So the files will get updated over time upon progress.
 
 Firstly, the data is cleaned with proper steps like using contractions, removing stopwards, regular expressions, lowercasing the text. 
 
