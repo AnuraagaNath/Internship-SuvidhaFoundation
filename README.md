@@ -14,7 +14,7 @@ Secondly, a Seq2Seq model (Bart-large from hugging face, any other similar model
 
 Thirdly, using a evaluation metrics (Rouge 1/2/L) to check the model output with reference one. As I have taken less data to train the model for my less computational power availability, I got a lower rouge score in this project.
 
-file:///home/anuraaga/Pictures/Screenshots/Screenshot%20from%202023-09-20%2017-43-07.png
+![score](file:///home/anuraaga/Pictures/Screenshots/Screenshot%20from%202023-09-20%2017-43-07.png)
 
 
 ## Environment Variables
