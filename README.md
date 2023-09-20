@@ -20,7 +20,7 @@ Edit the directory according to your needs.
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+As per September 20, 2023 the versions of the packages are as follows.
 
 `accelerate version: 0.24.0.dev0`
 
